@@ -1,4 +1,4 @@
-package Day4.FirstPackage;
+package com.tnsif.Day4.FirstPackage;
 
 public class executor {
 	public static void main(String[] args) {
