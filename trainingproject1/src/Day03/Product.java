@@ -1,4 +1,4 @@
-package day3;
+package Day03;
 
 public class Product {
 	private int pid;
